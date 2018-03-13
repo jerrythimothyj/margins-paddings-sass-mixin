@@ -123,6 +123,6 @@ This gives the CSS output:
 
 ### Output
 
-![alt text](http://jerrythimothy.bigjapps.com/margins-paddings-sass-mixin/output.png)
+![alt text](http://jerrythimothy.bigjapps.com/margins-paddings-sass-mixin/output.png?v=1)
 
 Notice the padding-left: 50px near Bulbasaur...
