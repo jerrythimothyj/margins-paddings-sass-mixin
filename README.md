@@ -119,3 +119,9 @@ This gives the CSS output:
 @include list-loop('.p-l-', 'padding-left');
 @include list-loop('.p-x-', 'padding');
 ```
+
+### Output
+
+![alt text](http://jerrythimothy.bigjapps.com/margins-paddings-sass-mixin/output.png)
+
+Notice the padding-left: 50px near Bulbasaur...
