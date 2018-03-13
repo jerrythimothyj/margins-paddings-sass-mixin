@@ -29,10 +29,10 @@ $offset: 5;
 
 * Lets say, we want to create padding from 0 to 50px, so we need a loop which does the job:
 ```
-    $i: 0;
-    @while $i <= $max {
-        $i: $i + $offset;
-    }
+$i: 0;
+@while $i <= $max {
+    $i: $i + $offset;
+}
 ```
 
 * Combining all the above we get a nice juicy mixin:
